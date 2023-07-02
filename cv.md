@@ -9,7 +9,7 @@
 
 **email:** bulatov.nre@gmail.com \
 **tel.:** +79995142792 \
-[Github](https://github.com/renyash) \
+**Github:** [Github](https://github.com/renyash) \
 **Telegram**: @re_nyash
 
 ***
@@ -28,6 +28,7 @@ contribute \
 to any project where I may be useful.
 
 ***
+
 ## General skills
 * HTML / CSS
 * JavaScript
@@ -42,9 +43,10 @@ to any project where I may be useful.
 ***
 
 ## Work experience
-### TIRA Corporation
+**TIRA Corporation** \
 **Technical translator** \
-2018 - Present \
+2018 - Present
+
 Accelerated communication with international business partners
 in twice. Translated more than 200 articles, \
 news, advertising 
@@ -88,3 +90,16 @@ translators.
 * English (C1)
 * Japanese (N3-N2)
 
+***
+
+## Code example
+
+*Implement a difference function, which subtracts one list from another and returns the result. \
+It should remove all values from list a, which are present in list b keeping their order.* 
+
+```javascript
+function arrayDiff(array1, array2) {
+  let result = array1.filter(x => !array2.includes(x));
+  return result;
+}
+```
