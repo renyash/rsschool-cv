@@ -1,8 +1,5 @@
 # Bulatov Nikita
 ## Junior Frontend Developer
-
-***
-
 ## Contact info
 
 ***
@@ -64,7 +61,7 @@ translators.
 ## Projects
 
 **Brain Games** - a set of 5 console games written in JavaScript. \
-[Project Link](ttps://github.com/renyash/frontend-project-lvl1)
+**Project Link:** [Brain Games](https://github.com/renyash/frontend-project-lvl1)
 
 **Acquired skills**
 * Environment setup (ESLint, CodeClimate, NodeJS, VSCode, npm)
