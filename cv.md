@@ -61,7 +61,7 @@ translators.
 ## Projects
 
 **Brain Games** - a set of 5 console games written in JavaScript. \
-**Project Link:** [Brain Games](https://github.com/renyash/frontend-project-lvl1)
+**Project Link:** [Brain Games](https://github.com/renyash/Brain-Games)
 
 **Acquired skills**
 * Environment setup (ESLint, CodeClimate, NodeJS, VSCode, npm)
