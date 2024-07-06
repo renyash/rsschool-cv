@@ -1,5 +1,5 @@
 # Bulatov Nikita
-## Frontend Developer
+## Junior Frontend Developer
 ## Contact info
 
 ***
