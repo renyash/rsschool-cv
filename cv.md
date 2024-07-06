@@ -1,5 +1,5 @@
 # Bulatov Nikita
-## Frontend Developer
+## Junior Frontend Developer
 ## Contact info
 
 ***
@@ -14,8 +14,7 @@
 ## About myself
 
 Although my career began as a translator, my keen interest in web technologies led me \
-to discovering my true passion for web development. Through studying at one of the most \
-famous programming schools in my country, I acquired comprehensive
+to discovering my true passion for web development. I have comprehensive
 knowledge of HTML, \
 CSS and JavaScript as well as frontend frameworks and libraries. <br> 
 
@@ -44,17 +43,11 @@ to any project where I may be useful.
 **Technical translator** \
 2018 - Present
 
-Accelerated communication with international business partners
-in twice. Translated more than 200 articles, \
-news, advertising 
-brochures, catalogs and drawings. Translated over 20 technical
-specifications with an average of \
-100 pages each into English.
-Created an unified glossary with 1200 words in total which greatly
-increased the consistency \
-of correct word usage by other
-employees. Edited and proofread translations done by other
-translators.
+Translated more than 270 advertising materials, presentations and catalogs, including at least 30 operating manuals and shop drawings. Wrote articles for a corporate newsletter in Russian and edited texts for a marketing team.
+
+Compiled an English-Russian technical glossary and a set of translation rules which accelerated work on large projects when working with other translators.
+
+Was responsible for corresponding with international customers. Participated in negotiations with foreign partners and worked as an interpreter at international exhibitions.
 
 ***
 
@@ -72,7 +65,7 @@ translators.
 
 ## Education
 **Hexlet, Frontend Development** \
-2022 - present
+2023
 
 **Bachelor in Information Systems and Technologies** \
 2013 - 2017
@@ -85,7 +78,7 @@ translators.
 ## Languages
 * Russian (native)
 * English (C1)
-* Japanese (N3-N2)
+* Japanese (N2)
 
 ***
 
