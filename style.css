@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0 auto;
+    width: 1366px;
+    font-family: 'Montserrat';
+    font-size: 16pt;
+  }
+  
+  .header-main {
+    display: flex;
+    align-content: center;
+  }
+  
+  .header-title {
+    align-content: center;
+    padding: 40px 40px 0px 40px;
+    width: 70%;
+  }
+
+ .header-pic img{
+  width: 300px;
+  height: auto;
+  padding: 40px 40px 0 40px;
+}
+  
+ .content-container {
+    display: flex;
+  }
+  
+  .sections-container {
+    width: 70%;
+    flex-direction: column;
+    padding: 0 40px 40px 40px;
+  }
+  
+  .section-title {
+    color: #5641DB;
+  }
+  .nav-main {
+    width: 30%;
+    padding: 20px 40px 40px 40px;
+    font-size: 14pt;
+    color: #73808D;
+  }
+  
+  .footer-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 40px 40px 40px;
+  }
+  
+  .footer-link {
+    margin-right: 40px;
+  }
+
+  .footer-logo {
+    width: 50px;
+    height: auto;
+  }
+
+  .rs-logo {
+    width: 100px;
+  }
+
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+
+  a {
+    color: #5641DB;
+    text-decoration: none;
+  }
